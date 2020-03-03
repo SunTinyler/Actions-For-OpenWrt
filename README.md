@@ -3,6 +3,11 @@
 - 官方OpenWRT
 - lean的lede （OpenWRT加强版）
 - lienol-openwrt （OpenWRT加强版）
+  env:
+  REPO_URL: https://github.com/Lienol/openwrt
+  REPO_BRANCH: dev-19.07
+  REPO_BRANCH: dev-master
+  REPO_BRANCH: dev-lean-lede
 
 
 
