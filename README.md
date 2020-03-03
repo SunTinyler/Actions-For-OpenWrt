@@ -1,3 +1,12 @@
+自己研究了半天，发现这个才是我需要的。我修改成极路由3
+
+
+
+
+
+
+
+
 # Actions-Lean-OpenWrt
 
 - `master`是[Lean's OpenWrt source](https://github.com/coolsnowwolf/lede)编译，分支`Lienol-openwrt`是[Lienol's openwrt source](https://github.com/Lienol/openwrt)编译。  
