@@ -9,6 +9,16 @@
 https://github.com/P3TERX/Actions-OpenWrt/issues/90
 
 
+- 引入外部的repo
+https://github.com/esirplayground/AutoBuild-OpenWrt/blob/master/.github/workflows/Build_OP_x86.yml
+ #- name: Import external feeds
+    #  working-directory: ./openwrt
+    #  run: |
+    #    git clone https://github.com/Lienol/openwrt-package package/lienol
+    #    git clone "your_github_link" package/"your_folder_name"      
+
+
+
 # Actions-Lean-OpenWrt
 
 - `master`是[Lean's OpenWrt source](https://github.com/coolsnowwolf/lede)编译，分支`Lienol-openwrt`是[Lienol's openwrt source](https://github.com/Lienol/openwrt)编译。  
