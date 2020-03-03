@@ -1,8 +1,8 @@
 修改配置文件，就可以支持多种硬件的编译。简化配置文件的修改。 
 
 - 官方OpenWRT
-- lean的lede
-- lienol-openwrt
+- lean的lede （OpenWRT加强版）
+- lienol-openwrt （OpenWRT加强版）
 
 
 
