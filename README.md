@@ -5,6 +5,8 @@
 - lienol-openwrt （OpenWRT加强版）
  
 
+# 使用文件大法
+https://github.com/P3TERX/Actions-OpenWrt/issues/90
 
 
 # Actions-Lean-OpenWrt
