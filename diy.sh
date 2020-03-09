@@ -14,6 +14,7 @@ sed -i 's/192.168.1.1/192.168.199.10/g' package/base-files/files/bin/config_gene
 
 # remove package
 # rm -rf package/lean/luci-theme-argon
+rm -rf package/lean/luci-app-unblockmusic
 
 
 #remove default theme 
