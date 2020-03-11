@@ -14,12 +14,17 @@ on:
 
 
 env:
+  #lean
   #REPO_URL: https://github.com/coolsnowwolf/lede
   #REPO_BRANCH: master
   #CONFIG_FILE: hiwifi3-for-lean.config
+    
+  #openwrt
   #REPO_URL: https://github.com/openwrt/openwrt
   #REPO_BRANCH: openwrt-19.07
   #CONFIG_FILE: hiwifi3-for-openwrt.config
+    
+  #lienol
   REPO_URL: https://github.com/Lienol/openwrt
   REPO_BRANCH: dev-19.07
   CONFIG_FILE: hiwfi3-for-lienol.config
